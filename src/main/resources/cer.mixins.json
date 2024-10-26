@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "rings_of_saturn.github.io.cer.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cer.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
